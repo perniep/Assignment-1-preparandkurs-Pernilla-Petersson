@@ -1,0 +1,8 @@
+img {
+ width: 400px;
+ height: 300px;
+ border-width: 5px;
+ border-color: red;
+ border-style: dashed;
+ 
+}
